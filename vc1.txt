@@ -1,0 +1,24 @@
+// VERSION CONTROL
+
+Version control is a system that records all changes and modification of file for tracking puposes.
+
+// This repo will help you to be able to
+1. Implement Version control
+2. Navigate and Configure using the command line
+3. Manage code revisions
+4. Create and use Github repository.
+5. Describe how modern software team collabrate and work on same code base.
+6. List different version control system and methedologies.
+7. Illustrate a standard software development workflow.
+8. Describe how the command line is and how it is used.
+9. Practice traversing your hard drive via the command line.
+10. Create, rename and delete file and folder on your hard disk using UNIX command.
+11. Use pipes and redirection.
+12. Outline the git principle.
+13. Use a github repository.
+14. Describe the steps in standard Github workflow.
+15. Create branches and merge different branches and sources.
+16. Describe how code goes from local development to version control and then to live production.
+
+
+
