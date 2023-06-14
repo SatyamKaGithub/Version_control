@@ -1,0 +1,17 @@
+// Benefits of Version control
+
+1. Revision history
+Provide a record of all changes in a project. It provide developer with the ability to revert to a stable point in time in case
+where code edits causes issues or bugs.
+
+2. Identity
+Provide a record of all the people who edited the code and when they edited the code and all other information
+
+3. Collaboration
+You can collaborate with people on a project and work together by creating branches.
+
+4. Automation
+Provides automatic testing functionality to the code
+
+5. Efficiency
+The project will be more efficient cause you can work with many people on the project at the same time. 
