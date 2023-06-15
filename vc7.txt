@@ -1,0 +1,12 @@
+// PIPES
+
+A coding tool that allows the output of one command to be as the input for a differrent command.
+
+
+// grep
+Global regular expression print.
+It's used for searching across files and folder as well as the content of the files.
+                grep Whatever you want to search file.txt    --> this searches the file and give output
+grep is case sensitive
+                grep -i search file.txt         --> Ignores case sesitivity
+                grep =w search file.txt         --> Gives exact search result
